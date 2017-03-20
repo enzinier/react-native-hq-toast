@@ -1,0 +1,38 @@
+{
+  "name": "react-native-hq-toast",
+  "version": "0.0.1",
+  "description": "React native module to show toast view.",
+  "keywords": [
+    "react-native",
+    "react-native-toast",
+    "toast",
+    "toast-view",
+    "alert"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url" : "https://github.com/enzinier/react-native-hq-toast/issues",
+    "email" : "enzinier+issue@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name" : "Jason Park",
+    "email" : "enzinier@gmail.com",
+    "url" : "https://enzinier.blogspot.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/enzinier/react-native-hq-toast"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.30.0"
+  }
+}

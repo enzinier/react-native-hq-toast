@@ -1,0 +1,10 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+.idea/**
+
+node_modules/
+npm-debug.log
+examples/
