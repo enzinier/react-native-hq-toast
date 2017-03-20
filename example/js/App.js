@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   View
 } from "react-native";
-import ToastView from './ToastView';
+import ToastView from 'react-native-hq-toast';
 
 class App extends Component {
   constructor(props) {

@@ -24,6 +24,9 @@ OR
 
 ## Example 1 (use default setting)
 ```javascript
+// ...
+import ToastView from 'react-native-hq-toast';
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -53,6 +56,9 @@ class App extends Component {
 
 ## Example 2 (use custom setting)
 ```javascript
+// ...
+import ToastView from 'react-native-hq-toast';
+
 class App extends Component {
   constructor(props) {
     super(props);
