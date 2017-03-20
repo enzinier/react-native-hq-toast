@@ -9,7 +9,7 @@
     "toast-view",
     "alert"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/illicis/react-native-hq-toast/blob/master/README.md",
   "bugs": {
     "url" : "https://github.com/enzinier/react-native-hq-toast/issues",
     "email" : "enzinier+issue@gmail.com"

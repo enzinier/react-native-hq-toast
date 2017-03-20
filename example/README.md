@@ -12,6 +12,7 @@ A react native module to show toast view regardless of platform.
 - Parallel animation for different opacity each text(max alpha 1.0), board(max alpha 0.8). 
 
 ## Demo
+![Demo](https://raw.githubusercontent.com/illicis/react-native-hq-toast/master/example/demo.gif)
 
 ## Install
 
