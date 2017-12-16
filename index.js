@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import {
   Animated,
   Dimensions,
@@ -162,10 +163,10 @@ ToastView.defaultProps = {
 };
 
 ToastView.propTypes = {
-  id: React.PropTypes.number,
-  onDisappear: React.PropTypes.func,
-  positionFromBottom: React.PropTypes.number,
-  positionFromTop: React.PropTypes.number,
-  styleBoard: React.PropTypes.object,
-  styleText: React.PropTypes.object
+  id: PropTypes.number,
+  onDisappear: PropTypes.func,
+  positionFromBottom: PropTypes.number,
+  positionFromTop: PropTypes.number,
+  styleBoard: PropTypes.object,
+  styleText: PropTypes.object
 };
